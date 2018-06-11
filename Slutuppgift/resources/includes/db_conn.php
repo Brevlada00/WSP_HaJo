@@ -1,9 +1,9 @@
 <?php
 //Connection information to database
 $host = 'localhost';
-$dbname = 'blogg';
+$dbname = 'blog';
 $user = 'admin';
-$password = 'localhorse';
+$password = 'Kaka123!';
 
 //Attribute for our PDO-object
 $attr = array(PDO::ATTR_DEFAULT_FETCH_MODE => PDO::FETCH_ASSOC);
